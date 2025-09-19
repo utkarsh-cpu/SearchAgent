@@ -73,7 +73,6 @@ git clone <repository-url> cd SampleAgent
 ```bash
   pip install -U ddgs
 ```
-```
 1. **Set up environment variables**:
 ``` bash
 export GEMINI_API_KEY="your-gemini-api-key-here"
