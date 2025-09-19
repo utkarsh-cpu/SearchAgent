@@ -162,7 +162,7 @@ public:
 ```
 ## Troubleshooting
 ### Common Issues
-1. **"ddgs command not found"**: Install DuckDuckGo CLI with `pip install duckduckgo-search[cli]`
+1. **"ddgs command not found"**: Install DuckDuckGo CLI with `pip install -U ddgs`
 2. **SSL/TLS errors**: Ensure OpenSSL is properly installed and configured
 3. **API timeout**: Check network connectivity and API key validity
 4. **Build errors**: Verify all Boost libraries are installed
